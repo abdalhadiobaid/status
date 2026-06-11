@@ -1,15 +1,15 @@
-owner: arabtherapy
+owner: abdalhadiobaid
 repo: status
 sites:
   - name: Arab Therapy Web
     url: https://arabtherapy.com
   - name: Arab Therapy API
+    url: https://arabtherapy.com/api/health
+  - name: Patient Mobile App Backend
     url: https://arabtherapy.com/api
-  - name: Patient App
-    url: https://arabtherapy.com
-  - name: Therapist App
-    url: https://arabtherapy.com
-assignees:
-  - abdalhadi-obaid
+  - name: Therapist Mobile App Backend
+    url: https://arabtherapy.com/api
 status-website:
   cname: status.arabtherapy.com
+  name: Arab Therapy Status
+  logoUrl: https://arabtherapy.com/arabtherapy.svg
