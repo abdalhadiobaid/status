@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/arabtherapy.com.ico",
     "slug": "arab-therapy-api",
     "status": "up",
-    "uptime": "4.55%",
-    "uptimeDay": "4.55%",
-    "uptimeWeek": "4.55%",
-    "uptimeMonth": "4.55%",
-    "uptimeYear": "4.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 320,
     "timeDay": 320,
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
-    "dailyMinutesDown": {
-      "2026-06-11": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Patient App",
